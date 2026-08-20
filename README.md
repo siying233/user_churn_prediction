@@ -59,6 +59,7 @@
 
 👉 [点击查看完整 Notebook](./x_user_churn_prediction.ipynb)
 
+> 如果你在 GitHub 上查看，文件可能因渲染限制无法完全显示图表和交互内容。建议选择[html版本](./x_user_churn_prediction.html) 进行查看
 
 
 
